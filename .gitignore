@@ -1,0 +1,9 @@
+**/bin/
+**/obj/
+**/TestResults/
+.vs/
+*.user
+*.suo
+~$*.docx
+resultado_pruebas.txt
+evidencia_pruebas*.png
